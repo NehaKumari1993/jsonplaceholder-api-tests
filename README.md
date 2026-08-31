@@ -1,6 +1,6 @@
 # JSONPlaceholder API Test Automation
 
-Automated API test suite for the public [JSONPlaceholder](https://jsonplaceholder.typicode.com) API, built as a SDET assessment.
+Automated API test suite for the public [JSONPlaceholder](https://jsonplaceholder.typicode.com) API.
 
 ## Overview
 
